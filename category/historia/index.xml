@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog | Foro Social de Campo de Criptana</title>
-    <link>/post/</link>
-      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Blog</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-es</language>
+    <title>historia | Foro Social de Campo de Criptana</title>
+    <link>/category/historia/</link>
+      <atom:link href="/category/historia/index.xml" rel="self" type="application/rss+xml" />
+    <description>historia</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-es</language><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/rotulo-foro.png</url>
-      <title>Blog</title>
-      <link>/post/</link>
+      <title>historia</title>
+      <link>/category/historia/</link>
     </image>
     
     <item>

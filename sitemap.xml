@@ -3,13 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-11-04T19:20:28+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/</loc>
     <lastmod>2020-11-05T10:33:42+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/post-de-prueba/</loc>
-    <lastmod>2020-11-05T09:17:57+00:00</lastmod>
+    <loc>/category/historia/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/libro/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/presentacion-libro-anos-abundancia/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-11-04T19:20:28+01:00</lastmod>
   </url>
   
   <url>
@@ -34,11 +54,6 @@
   
   <url>
     <loc>/publication-type/9/</loc>
-    <lastmod>2020-11-04T19:20:28+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
     <lastmod>2020-11-04T19:20:28+01:00</lastmod>
   </url>
   
@@ -159,11 +174,6 @@
   
   <url>
     <loc>/proyecto/</loc>
-    <lastmod>2020-11-04T19:20:28+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2020-11-04T19:20:28+01:00</lastmod>
   </url>
   

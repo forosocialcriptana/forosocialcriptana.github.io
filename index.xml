@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Foro Social de Campo de Criptana</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-es</language><lastBuildDate>Thu, 05 Nov 2020 09:15:35 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-es</language><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/rotulo-foro.png</url>
       <title>Foro Social de Campo de Criptana</title>
@@ -13,13 +13,16 @@
     </image>
     
     <item>
-      <title>Post de prueba</title>
-      <link>/post/post-de-prueba/</link>
-      <pubDate>Thu, 05 Nov 2020 09:15:35 +0000</pubDate>
-      <guid>/post/post-de-prueba/</guid>
-      <description>&lt;p&gt;Esto es una pueba de post.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;tala-tomelloso.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Adios.&lt;/p&gt;
+      <title>Presentación del libro &#34;Los años de la abundancia&#34;</title>
+      <link>/post/presentacion-libro-anos-abundancia/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/post/presentacion-libro-anos-abundancia/</guid>
+      <description>&lt;p&gt;Tenemos el placer de presentar un nuevo libro de José María Carrillejo, &amp;ldquo;Los años de la abundancia&amp;rdquo;, editado por la asociación Encinares Vivos de La Mancha. En este libro, José María narra y muestra con multitud de fotografías la vida y costumbres de Campo de Criptana desde su propia vivencia personal.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/86yDs91l58I&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
 </description>
     </item>
     
