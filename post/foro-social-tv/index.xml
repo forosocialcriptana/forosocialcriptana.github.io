@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Foro Social TV | Foro Social de Campo de Criptana</title>
+    <link>/post/foro-social-tv/</link>
+      <atom:link href="/post/foro-social-tv/index.xml" rel="self" type="application/rss+xml" />
+    <description>Foro Social TV</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-es</language>
+    <image>
+      <url>/media/rotulo-foro.png</url>
+      <title>Foro Social TV</title>
+      <link>/post/foro-social-tv/</link>
+    </image>
+    
+    <item>
+      <title>Foro Social TV</title>
+      <link>/post/foro-social-tv/foro-social-tv/</link>
+      <pubDate>Sat, 01 May 2010 21:10:00 +0000</pubDate>
+      <guid>/post/foro-social-tv/foro-social-tv/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://blip.tv/play/hax7AozaOg%22&#34;&gt;http://blip.tv/play/hax7AozaOg&amp;quot;&lt;/a&gt; type=&amp;ldquo;application/x-shockwave-flash&amp;rdquo; width=&amp;ldquo;640&amp;rdquo; height=&amp;ldquo;385&amp;rdquo; allowscriptaccess=&amp;ldquo;always&amp;rdquo; allowfullscreen=&amp;ldquo;true&amp;rdquo;&amp;gt;&lt;/embed&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

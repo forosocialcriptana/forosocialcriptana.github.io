@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Campañas | Foro Social de Campo de Criptana</title>
+    <link>/post/asociaciones/grupo-ecologista-salicor/campanas/</link>
+      <atom:link href="/post/asociaciones/grupo-ecologista-salicor/campanas/index.xml" rel="self" type="application/rss+xml" />
+    <description>Campañas</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-es</language>
+    <image>
+      <url>/media/rotulo-foro.png</url>
+      <title>Campañas</title>
+      <link>/post/asociaciones/grupo-ecologista-salicor/campanas/</link>
+    </image>
+    
+  </channel>
+</rss>

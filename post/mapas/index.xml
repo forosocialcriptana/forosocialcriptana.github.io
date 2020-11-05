@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mapas | Foro Social de Campo de Criptana</title>
+    <link>/post/mapas/</link>
+      <atom:link href="/post/mapas/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mapas</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-es</language>
+    <image>
+      <url>/media/rotulo-foro.png</url>
+      <title>Mapas</title>
+      <link>/post/mapas/</link>
+    </image>
+    
+    <item>
+      <title>Mapas de ubicación de Campo de Criptana</title>
+      <link>/post/mapas/mapas-ubicacion-campo-criptana/</link>
+      <pubDate>Sun, 18 Dec 2005 20:03:00 +0000</pubDate>
+      <guid>/post/mapas/mapas-ubicacion-campo-criptana/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://maps.google.es/maps/ms?ie=UTF8&amp;amp;hl=es&amp;amp;om=1&amp;amp;z=15&amp;amp;ll=39.40619,-3.125911&amp;amp;spn=0.022449,0.040169&amp;amp;msid=116207643925480995102.00000112277914b7ed8b5&amp;amp;msa=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Plano de Campo de Criptana&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Mapas para llegar a Campo de Criptana&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://maps.google.com/maps?f=d&amp;amp;hl=es&amp;amp;ie=UTF8&amp;amp;saddr=Criptana,&amp;#43;Spain&amp;amp;daddr=Campo&amp;#43;de&amp;#43;Criptana,&amp;#43;Ciudad&amp;#43;Real,&amp;#43;Castilla-La&amp;#43;Mancha,&amp;#43;Espa%C3%B1a&amp;amp;sll=39.943436,-3.356323&amp;amp;sspn=1.747695,3.735352&amp;amp;om=1&amp;amp;z=6&amp;amp;ll=39.808536,-3.120117&amp;amp;spn=7.002645,14.941406&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mapa de ubicación en España &lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://maps.google.com/maps?f=d&amp;amp;hl=es&amp;amp;ie=UTF8&amp;amp;saddr=Criptana,&amp;#43;Spain&amp;amp;daddr=Campo&amp;#43;de&amp;#43;Criptana,&amp;#43;Ciudad&amp;#43;Real,&amp;#43;Castilla-La&amp;#43;Mancha,&amp;#43;Espa%C3%B1a&amp;amp;sll=39.943436,-3.356323&amp;amp;sspn=1.747695,3.735352&amp;amp;om=0&amp;amp;z=8&amp;amp;ll=39.753657,-3.147583&amp;amp;spn=1.752533,3.735352&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mapa de ubicación en Catilla La Mancha&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://maps.google.com/maps?f=d&amp;amp;hl=es&amp;amp;ie=UTF8&amp;amp;saddr=Criptana,&amp;#43;Spain&amp;amp;daddr=Campo&amp;#43;de&amp;#43;Criptana,&amp;#43;Ciudad&amp;#43;Real,&amp;#43;Castilla-La&amp;#43;Mancha,&amp;#43;Espa%C3%B1a&amp;amp;sll=39.943436,-3.356323&amp;amp;sspn=1.747695,3.735352&amp;amp;om=1&amp;amp;z=11&amp;amp;ll=39.428238,-3.159256&amp;amp;spn=0.220106,0.466919&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mapa de ubicación en la región&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Callejeros de Campo de Criptana&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://maps.google.com/maps?f=d&amp;amp;hl=es&amp;amp;ie=UTF8&amp;amp;saddr=Criptana,&amp;#43;Spain&amp;amp;daddr=Campo&amp;#43;de&amp;#43;Criptana,&amp;#43;Ciudad&amp;#43;Real,&amp;#43;Castilla-La&amp;#43;Mancha,&amp;#43;Espa%C3%B1a&amp;amp;sll=39.943436,-3.356323&amp;amp;sspn=1.747695,3.735352&amp;amp;om=0&amp;amp;z=15&amp;amp;ll=39.40304,-3.124709&amp;amp;spn=0.013762,0.029182&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Callejero global&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://maps.google.com/maps?f=d&amp;amp;hl=es&amp;amp;ie=UTF8&amp;amp;saddr=Criptana,&amp;#43;Spain&amp;amp;daddr=Campo&amp;#43;de&amp;#43;Criptana,&amp;#43;Ciudad&amp;#43;Real,&amp;#43;Castilla-La&amp;#43;Mancha,&amp;#43;Espa%C3%B1a&amp;amp;sll=39.943436,-3.356323&amp;amp;sspn=1.747695,3.735352&amp;amp;om=0&amp;amp;z=16&amp;amp;ll=39.406373,-3.128958&amp;amp;spn=0.006881,0.014591&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Callejero noroeste&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://maps.google.com/maps?f=d&amp;amp;hl=es&amp;amp;ie=UTF8&amp;amp;saddr=Criptana,&amp;#43;Spain&amp;amp;daddr=Campo&amp;#43;de&amp;#43;Criptana,&amp;#43;Ciudad&amp;#43;Real,&amp;#43;Castilla-La&amp;#43;Mancha,&amp;#43;Espa%C3%B1a&amp;amp;sll=39.943436,-3.356323&amp;amp;sspn=1.747695,3.735352&amp;amp;om=0&amp;amp;z=16&amp;amp;ll=39.406721,-3.120203&amp;amp;spn=0.00688,0.014591&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Callejero noreste&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://maps.google.com/maps?f=d&amp;amp;hl=es&amp;amp;ie=UTF8&amp;amp;saddr=Criptana,&amp;#43;Spain&amp;amp;daddr=Campo&amp;#43;de&amp;#43;Criptana,&amp;#43;Ciudad&amp;#43;Real,&amp;#43;Castilla-La&amp;#43;Mancha,&amp;#43;Espa%C3%B1a&amp;amp;sll=39.943436,-3.356323&amp;amp;sspn=1.747695,3.735352&amp;amp;om=0&amp;amp;z=16&amp;amp;ll=39.400503,-3.120203&amp;amp;spn=0.006881,0.014591&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Callejero sureste&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://maps.google.com/maps?f=d&amp;amp;hl=es&amp;amp;ie=UTF8&amp;amp;saddr=Criptana,&amp;#43;Spain&amp;amp;daddr=Campo&amp;#43;de&amp;#43;Criptana,&amp;#43;Ciudad&amp;#43;Real,&amp;#43;Castilla-La&amp;#43;Mancha,&amp;#43;Espa%C3%B1a&amp;amp;sll=39.943436,-3.356323&amp;amp;sspn=1.747695,3.735352&amp;amp;om=0&amp;amp;z=16&amp;amp;ll=39.400155,-3.128958&amp;amp;spn=0.006881,0.014591&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Callejero suroeste&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div style=&#39;width:480px; height:395px;font: 12px Arial, Helvetica, sans-serif; line-height: 14px; padding: 0; margin: 0;&#39;&gt;View &lt;a title=&#39;View track on Breadcrumbs&#39; href=&#39;http://app.gobreadcrumbs.com/user/asalber/trail-running/open-gps-tracker/ruta-1&#39;&gt;Ruta 1&lt;/a&gt; by &lt;a title=&#39;GPS tracks by asalber&#39; href=&#39;http://app.gobreadcrumbs.com/user/asalber&#39;&gt;asalber&lt;/a&gt; on Breadcrumbs&lt;br/&gt;&lt;iframe src=&#39;http://app.gobreadcrumbs.com/plugins/map_widget/107902&#39; width=&#39;480px&#39; height=&#39;355px&#39; scrolling=&#39;no&#39; frameborder=&#39;0&#39;&gt;&lt;/iframe&gt;&lt;br/&gt;Powered by &lt;a href=&#39;http://www.gobreadcrumbs.com&#39; title=&#39;Share GPS Tracks for Free&#39;&gt;Breadcrumbs&lt;/a&gt;: manage, edit and share GPS tracks for free.&lt;/div&gt;&lt;script src=&#39;http://app.gobreadcrumbs.com/plugins/stat/107902.js&#39;&gt;&lt;/script&gt; 
+&lt;iframe width=&#34;640&#34; height=&#34;480&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; marginheight=&#34;0&#34; marginwidth=&#34;0&#34; src=&#34;http://maps.google.com/maps/ms?msa=0&amp;ie=UTF8&amp;vpsrc=6&amp;msid=213832340120293578648.0004aacbd680a9e966f34&amp;ll=39.409274,-3.121233&amp;spn=0.031831,0.054932&amp;t=f&amp;z=14&amp;ecpose=39.3832999,-3.12123299,3642.77,0,44.974,0&amp;output=embed&#34;&gt;&lt;/iframe&gt;&lt;br /&gt;&lt;small&gt;Ver &lt;a href=&#34;http://maps.google.com/maps/ms?msa=0&amp;ie=UTF8&amp;vpsrc=6&amp;msid=213832340120293578648.0004aacbd680a9e966f34&amp;ll=39.409274,-3.121233&amp;spn=0.031831,0.054932&amp;t=f&amp;z=14&amp;ecpose=39.3832999,-3.12123299,3642.77,0,44.974,0&amp;source=embed&#34; style=&#34;color:#0000FF;text-align:left&#34;&gt;Ruta 1&lt;/a&gt; en un mapa más grande&lt;/small&gt;
+&lt;script src=&#34;http://www.gmodules.com/ig/ifr?url=http://code.google.com/apis/kml/embed/tourgadget.xml&amp;amp;up_kml_url=http%3A%2F%2Fwww.forosocialcriptana.com%2FIMG%2Fkmz%2Fvisita_guiada_ruta_1_2.kmz&amp;amp;up_tour_index=1&amp;amp;up_tour_autoplay=0&amp;amp;up_show_navcontrols=0&amp;amp;up_show_buildings=0&amp;amp;up_show_terrain=1&amp;amp;up_show_roads=0&amp;amp;up_show_borders=0&amp;amp;up_sphere=earth&amp;amp;synd=open&amp;amp;w=500&amp;amp;h=400&amp;amp;title=Ruta+1+por+Campo+de+Criptana&amp;amp;border=%23ffffff%7C3px%2C1px+solid+%23999999&amp;amp;output=js&#34;&gt;&lt;/script&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

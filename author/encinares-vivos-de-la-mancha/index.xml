@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Encinares vivos de La Mancha | Foro Social de Campo de Criptana</title>
+    <link>/author/encinares-vivos-de-la-mancha/</link>
+      <atom:link href="/author/encinares-vivos-de-la-mancha/index.xml" rel="self" type="application/rss+xml" />
+    <description>Encinares vivos de La Mancha</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-es</language>
+    <image>
+      <url>/media/rotulo-foro.png</url>
+      <title>Encinares vivos de La Mancha</title>
+      <link>/author/encinares-vivos-de-la-mancha/</link>
+    </image>
+    
+  </channel>
+</rss>

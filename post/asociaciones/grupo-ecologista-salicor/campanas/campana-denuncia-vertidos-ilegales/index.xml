@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Campaña de denuncia de vertidos ilegales | Foro Social de Campo de Criptana</title>
+    <link>/post/asociaciones/grupo-ecologista-salicor/campanas/campana-denuncia-vertidos-ilegales/</link>
+      <atom:link href="/post/asociaciones/grupo-ecologista-salicor/campanas/campana-denuncia-vertidos-ilegales/index.xml" rel="self" type="application/rss+xml" />
+    <description>Campaña de denuncia de vertidos ilegales</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-es</language>
+    <image>
+      <url>/media/rotulo-foro.png</url>
+      <title>Campaña de denuncia de vertidos ilegales</title>
+      <link>/post/asociaciones/grupo-ecologista-salicor/campanas/campana-denuncia-vertidos-ilegales/</link>
+    </image>
+    
+    <item>
+      <title>Antigua cantera de horcisa</title>
+      <link>/post/asociaciones/grupo-ecologista-salicor/campanas/campana-denuncia-vertidos-ilegales/antigua-cantera-horcisa/</link>
+      <pubDate>Wed, 04 Oct 2006 12:45:00 +0000</pubDate>
+      <guid>/post/asociaciones/grupo-ecologista-salicor/campanas/campana-denuncia-vertidos-ilegales/antigua-cantera-horcisa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

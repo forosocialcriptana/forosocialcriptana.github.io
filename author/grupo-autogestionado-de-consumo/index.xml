@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grupo autogestionado de consumo | Foro Social de Campo de Criptana</title>
+    <link>/author/grupo-autogestionado-de-consumo/</link>
+      <atom:link href="/author/grupo-autogestionado-de-consumo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Grupo autogestionado de consumo</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-es</language>
+    <image>
+      <url>/media/rotulo-foro.png</url>
+      <title>Grupo autogestionado de consumo</title>
+      <link>/author/grupo-autogestionado-de-consumo/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mapa | Foro Social de Campo de Criptana</title>
+    <link>/tag/mapa/</link>
+      <atom:link href="/tag/mapa/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mapa</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-es</language><lastBuildDate>Thu, 01 Sep 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/rotulo-foro.png</url>
+      <title>Mapa</title>
+      <link>/tag/mapa/</link>
+    </image>
+    
+    <item>
+      <title>Catálogo de Patrimonio de Campo de Criptana</title>
+      <link>/proyecto/catalogo-patrimonio/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/proyecto/catalogo-patrimonio/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://forosocialcriptana.github.io/catalogo-patrimonio/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Accede al catálogo de patrimonio&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;El catálogo de patrimonio de Campo de Criptana es un compendio de lugares de interés histórico, artístico, ambiental y etnográfico del término municipal de Campo de Criptana con geolocalización en un mapa interactivo.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Observatorio Ciudadano Municipal de Campo de Criptana</title>
+      <link>/proyecto/ocm/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/proyecto/ocm/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://ocm.forosocialcriptana.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Accede al Observatorio Ciudadano Municipal&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;El grado de madurez de cualquier democracia se puede medir por la capacidad que tienen los ciudadano/as de participar efectivamente en la toma de decisiones que afectan a la comunidad, así como en la transparencia en la ejecución de las mismas.&lt;/p&gt;
+&lt;p&gt;El gasto público de un municipio, así como la forma de financiarse, expresados ambos en los presupuestos municipales, son dos de los ámbitos de participación más importantes para una comunidad y por tanto su control transparente por parte de la población es imprescindible para evitar casos de corrupción y garantizar un funcionamiento democrático de las instituciones de la Administración Pública.&lt;/p&gt;
+&lt;p&gt;El Observatorio Ciudadano Municipal de Campo de Criptana surge desde el Foro Social de Campo de Criptana con la pretensión de controlar a quienes nos gobiernan y esta página es una herramienta puesta a disposición de la población para facilitar dicho control.&lt;/p&gt;
+&lt;p&gt;Pero para que el control sea efectivo, no bastan herramientas como esta, sino que se necesita sobre todo gente comprometida con su comunidad, dispuesta a dedicar parte de su tiempo en esta labor. Por ello animamos a participar en este proyecto dándote de alta como usuario y socio del proyecto.&lt;/p&gt;
+&lt;p&gt;¡Tu parcicipación, mejora nuestra democracia!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

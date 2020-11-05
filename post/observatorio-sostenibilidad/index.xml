@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Observatorio de la sostenibilidad | Foro Social de Campo de Criptana</title>
+    <link>/post/observatorio-sostenibilidad/</link>
+      <atom:link href="/post/observatorio-sostenibilidad/index.xml" rel="self" type="application/rss+xml" />
+    <description>Observatorio de la sostenibilidad</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-es</language>
+    <image>
+      <url>/media/rotulo-foro.png</url>
+      <title>Observatorio de la sostenibilidad</title>
+      <link>/post/observatorio-sostenibilidad/</link>
+    </image>
+    
+  </channel>
+</rss>

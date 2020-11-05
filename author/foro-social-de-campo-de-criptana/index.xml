@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Foro Social de Campo de Criptana</title>
+    <link>/author/foro-social-de-campo-de-criptana/</link>
+      <atom:link href="/author/foro-social-de-campo-de-criptana/index.xml" rel="self" type="application/rss+xml" />
+    <description>Foro Social de Campo de Criptana</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-es</language>
+    <image>
+      <url>/media/rotulo-foro.png</url>
+      <title>Foro Social de Campo de Criptana</title>
+      <link>/author/foro-social-de-campo-de-criptana/</link>
+    </image>
+    
+  </channel>
+</rss>

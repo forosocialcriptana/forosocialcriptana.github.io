@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Boletín Salicor | Foro Social de Campo de Criptana</title>
+    <link>/post/asociaciones/grupo-ecologista-salicor/boletin-salicor/</link>
+      <atom:link href="/post/asociaciones/grupo-ecologista-salicor/boletin-salicor/index.xml" rel="self" type="application/rss+xml" />
+    <description>Boletín Salicor</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-es</language>
+    <image>
+      <url>/media/rotulo-foro.png</url>
+      <title>Boletín Salicor</title>
+      <link>/post/asociaciones/grupo-ecologista-salicor/boletin-salicor/</link>
+    </image>
+    
+    <item>
+      <title>Reportaje sobre los chozos de Campo de Criptana</title>
+      <link>/post/asociaciones/grupo-ecologista-salicor/boletin-salicor/reportaje-chozos-campo-criptana/</link>
+      <pubDate>Thu, 11 Oct 2012 15:51:57 +0000</pubDate>
+      <guid>/post/asociaciones/grupo-ecologista-salicor/boletin-salicor/reportaje-chozos-campo-criptana/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;&amp;ldquo;Las construcciones rurales en Campo de Criptana&amp;rdquo;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&amp;lt;doc516|center&amp;gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Boletín Salicor Diciembre 2007</title>
+      <link>/post/asociaciones/grupo-ecologista-salicor/boletin-salicor/boletin-salicor-diciembre-2007/</link>
+      <pubDate>Fri, 04 Jan 2008 12:23:38 +0000</pubDate>
+      <guid>/post/asociaciones/grupo-ecologista-salicor/boletin-salicor/boletin-salicor-diciembre-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boletín Salicor septiembre 2006</title>
+      <link>/post/asociaciones/grupo-ecologista-salicor/boletin-salicor/boletin-salicor-septiembre-2006/</link>
+      <pubDate>Fri, 29 Sep 2006 18:12:00 +0000</pubDate>
+      <guid>/post/asociaciones/grupo-ecologista-salicor/boletin-salicor/boletin-salicor-septiembre-2006/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
