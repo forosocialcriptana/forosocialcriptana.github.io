@@ -5,7 +5,7 @@
     <link>/post/periodico-foro/</link>
       <atom:link href="/post/periodico-foro/index.xml" rel="self" type="application/rss+xml" />
     <description>Periódico El Foro</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-es</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-es</language><lastBuildDate>Wed, 06 Mar 2019 20:29:43 +0000</lastBuildDate>
     <image>
       <url>/media/rotulo-foro.png</url>
       <title>Periódico El Foro</title>
