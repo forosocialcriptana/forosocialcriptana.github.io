@@ -3,12 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/post/asociaciones/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/encinares-vivos-de-la-mancha/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/asociaciones/encinares-vivos-mancha/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -28,7 +48,7 @@
   </url>
   
   <url>
-    <loc>/post/presentacion-libro-anos-abundancia/</loc>
+    <loc>/post/asociaciones/encinares-vivos-mancha/presentacion-libro-anos-abundancia/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -43,7 +63,7 @@
   </url>
   
   <url>
-    <loc>/post/asociaciones/</loc>
+    <loc>/author/las-violeteras/</loc>
     <lastmod>2020-03-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -148,6 +168,11 @@
   </url>
   
   <url>
+    <loc>/author/salicor-ecologistas-en-accion/</loc>
+    <lastmod>2017-10-03T17:37:15+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/actividades/emboscada/</loc>
     <lastmod>2017-08-22T18:56:00+00:00</lastmod>
   </url>
@@ -178,6 +203,11 @@
   </url>
   
   <url>
+    <loc>/author/grupo-autogestionado-de-consumo/</loc>
+    <lastmod>2017-05-10T20:11:34+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/asociaciones/grupo-autogestionado-consumo-local/</loc>
     <lastmod>2017-05-10T20:11:34+00:00</lastmod>
   </url>
@@ -190,11 +220,6 @@
   <url>
     <loc>/post/asociaciones/grupo-autogestionado-consumo-local/iii-mercadillo-agroecologico-campo-criptana/</loc>
     <lastmod>2017-05-02T20:50:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/asociaciones/encinares-vivos-mancha/</loc>
-    <lastmod>2017-03-14T12:55:54+00:00</lastmod>
   </url>
   
   <url>
@@ -245,6 +270,11 @@
   <url>
     <loc>/post/periodico-foro/una-nueva-politica-construccion-/</loc>
     <lastmod>2016-07-01T11:33:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/ayuda-en-accion/</loc>
+    <lastmod>2016-06-30T12:30:43+00:00</lastmod>
   </url>
   
   <url>
@@ -314,6 +344,11 @@
   
   <url>
     <loc>/post/asociaciones/korova/participa-limpi-arte/</loc>
+    <lastmod>2016-04-05T14:53:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/proyecto-korova/</loc>
     <lastmod>2016-04-05T14:53:03+00:00</lastmod>
   </url>
   
@@ -388,7 +423,7 @@
   </url>
   
   <url>
-    <loc>/post/actividades/jornadas-sociales-promocion-participacion-ciudadana/xix-marcha-cicloturista-descubre-tu-entorno/</loc>
+    <loc>/post/asociaciones/grupo-ecologista-salicor/actividades/xix-marcha-cicloturista-descubre-tu-entorno/</loc>
     <lastmod>2015-06-23T12:40:00+00:00</lastmod>
   </url>
   
@@ -468,7 +503,7 @@
   </url>
   
   <url>
-    <loc>/post/actividades/jornadas-sociales-promocion-participacion-ciudadana/xviii-marcha-cicloturista-descubre-tu-entorno/</loc>
+    <loc>/post/asociaciones/grupo-ecologista-salicor/actividades/xviii-marcha-cicloturista-descubre-tu-entorno/</loc>
     <lastmod>2014-06-21T11:29:58+00:00</lastmod>
   </url>
   
@@ -644,6 +679,11 @@
   
   <url>
     <loc>/post/asociaciones/plataforma-afectados-hipotecas/documentos-plataforma-afectados-hipotecas/</loc>
+    <lastmod>2013-04-05T13:55:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/plataforma-de-afectados-por-las-hipotecas/</loc>
     <lastmod>2013-04-05T13:55:00+00:00</lastmod>
   </url>
   
@@ -1308,7 +1348,7 @@
   </url>
   
   <url>
-    <loc>/post/actividades/jornadas-sociales-promocion-participacion-ciudadana/xiii-marcha-cicloturista-descubre-tu-entorno/</loc>
+    <loc>/post/asociaciones/grupo-ecologista-salicor/actividades/xiii-marcha-cicloturista-descubre-tu-entorno/</loc>
     <lastmod>2009-06-04T01:19:02+00:00</lastmod>
   </url>
   
@@ -1738,18 +1778,6 @@
   </url>
   
   <url>
-    <loc>/authors/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/ayuda-en-accion/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/encinares-vivos-de-la-mancha/</loc>
-  </url>
-  
-  <url>
     <loc>/post/enlaces/</loc>
   </url>
   
@@ -1758,27 +1786,7 @@
   </url>
   
   <url>
-    <loc>/author/grupo-autogestionado-de-consumo/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/las-violeteras/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/plataforma-de-afectados-por-las-hipotecas/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/proyecto-korova/</loc>
-  </url>
-  
-  <url>
     <loc>/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/salicor-ecologistas-en-accion/</loc>
   </url>
   
 </urlset>
