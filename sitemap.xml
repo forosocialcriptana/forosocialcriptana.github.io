@@ -98,11 +98,6 @@
   </url>
   
   <url>
-    <loc>/publication-type/9/</loc>
-    <lastmod>2020-09-16T23:26:02+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/category/periodico/</loc>
     <lastmod>2020-09-16T23:26:02+02:00</lastmod>
   </url>
@@ -114,11 +109,6 @@
   
   <url>
     <loc>/publication/</loc>
-    <lastmod>2020-09-16T23:26:02+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
     <lastmod>2020-09-16T23:26:02+02:00</lastmod>
   </url>
   
@@ -305,11 +295,6 @@
   <url>
     <loc>/post/actividades/jornadas-sociales-promocion-participacion-ciudadana/xii-jornadas-sociales-promocion-participacion-ciudadana/</loc>
     <lastmod>2016-06-14T20:10:16+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication-type/2/</loc>
-    <lastmod>2020-09-16T23:26:02+02:00</lastmod>
   </url>
   
   <url>
@@ -1783,6 +1768,10 @@
   
   <url>
     <loc>/author/foro-social-de-campo-de-criptana/</loc>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
   </url>
   
   <url>
