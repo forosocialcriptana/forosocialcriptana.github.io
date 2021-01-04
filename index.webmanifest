@@ -2,8 +2,8 @@
   "name": "Foro Social de Campo de Criptana",
   "short_name": "Foro Social de Campo de Criptana",
   "lang": "es-es",
-  "theme_color": "#5555ff",
-  "background_color": "#5555ff",
+  "theme_color": "#ff7733",
+  "background_color": "#ff7733",
   "icons": [{
     "src": "/images/icon_hu935fc5c42419066cdebed04c9ba8d494_6890_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
