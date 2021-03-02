@@ -3,6 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/post/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/presupuestos-municipales/presentacion-presupuestos-municipales-2021/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/presupuestos/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/presupuestos/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/presupuestos-municipales/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tag/arbolado/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
@@ -14,16 +54,6 @@
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2021-02-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2021-02-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -40,16 +70,6 @@
   <url>
     <loc>/post/asociaciones/grupo-ecologista-salicor/denuncia-arranque-arboles-camino-cristo/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2021-02-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -369,11 +389,6 @@
   
   <url>
     <loc>/post/presupuestos-municipales/presupuestos-2016-mejoran-transparencia-siguen-suspensos-participacion/</loc>
-    <lastmod>2016-01-19T13:51:02+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/presupuestos-municipales/</loc>
     <lastmod>2016-01-19T13:51:02+00:00</lastmod>
   </url>
   
