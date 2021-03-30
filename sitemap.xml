@@ -2,22 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/post/asociaciones/</loc>
+    <lastmod>2021-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/</loc>
+    <lastmod>2021-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/</loc>
+    <lastmod>2021-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/bosques/</loc>
+    <lastmod>2021-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/encinares-vivos-de-la-mancha/</loc>
+    <lastmod>2021-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/asociaciones/encinares-vivos-mancha/</loc>
+    <lastmod>2021-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/asociaciones/encinares-vivos-mancha/jornada-reforestacion-2021/</loc>
+    <lastmod>2021-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2021-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/reforestacion/</loc>
+    <lastmod>2021-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2021-03-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tag/arbolado/</loc>
     <lastmod>2021-03-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/asociaciones/</loc>
-    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/</loc>
-    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/</loc>
-    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/categories/</loc>
-    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
     <lastmod>2021-03-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/asociaciones/grupo-ecologista-salicor/</loc>
@@ -36,9 +54,6 @@
     <lastmod>2021-03-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/salicor-ecologistas-en-accion/</loc>
-    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2021-03-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tag/8m/</loc>
@@ -79,12 +94,6 @@
   </url><url>
     <loc>/post/asociaciones/grupo-ecologista-salicor/denuncia-arranque-arboles-camino-cristo/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/encinares-vivos-de-la-mancha/</loc>
-    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/asociaciones/encinares-vivos-mancha/</loc>
-    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/category/historia/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
