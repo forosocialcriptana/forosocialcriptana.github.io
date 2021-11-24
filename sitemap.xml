@@ -2,25 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/tag/aduacion-ambiental/</loc>
+    <lastmod>2021-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/agroecologia/</loc>
+    <lastmod>2021-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/asociaciones/</loc>
+    <lastmod>2021-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/</loc>
+    <lastmod>2021-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/</loc>
+    <lastmod>2021-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+    <lastmod>2021-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2021-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/grupo-autogestionado-de-consumo/</loc>
+    <lastmod>2021-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/asociaciones/grupo-autogestionado-consumo-local/</loc>
+    <lastmod>2021-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/asociaciones/grupo-autogestionado-consumo-local/jornadas-geoalternativa/</loc>
+    <lastmod>2021-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/soberania-alimentaria/</loc>
+    <lastmod>2021-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/category/soberania-alimentaria/</loc>
+    <lastmod>2021-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2021-11-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/post/asociaciones/grupo-ecologista-salicor/huelga-global-clima/</loc>
     <lastmod>2021-09-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/asociaciones/</loc>
-    <lastmod>2021-09-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/</loc>
-    <lastmod>2021-09-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/</loc>
-    <lastmod>2021-09-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2021-09-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tag/crisis-climatica/</loc>
-    <lastmod>2021-09-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
     <lastmod>2021-09-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/asociaciones/grupo-ecologista-salicor/</loc>
@@ -30,9 +54,6 @@
     <lastmod>2021-09-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/salicor-ecologistas-en-accion/</loc>
-    <lastmod>2021-09-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2021-09-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/presupuestos-participativos/comienzan-primeros-presupuestos-participativos/</loc>
@@ -199,12 +220,6 @@
   </url><url>
     <loc>/post/asociaciones/las-violeteras-criptana/i-jornadas-ecofenimistas/</loc>
     <lastmod>2017-05-25T11:47:50+00:00</lastmod>
-  </url><url>
-    <loc>/author/grupo-autogestionado-de-consumo/</loc>
-    <lastmod>2017-05-10T20:11:34+00:00</lastmod>
-  </url><url>
-    <loc>/post/asociaciones/grupo-autogestionado-consumo-local/</loc>
-    <lastmod>2017-05-10T20:11:34+00:00</lastmod>
   </url><url>
     <loc>/post/asociaciones/grupo-autogestionado-consumo-local/exito-participacion-iii-mercadillo-agroecologico-campo-criptana/</loc>
     <lastmod>2017-05-10T20:11:34+00:00</lastmod>
