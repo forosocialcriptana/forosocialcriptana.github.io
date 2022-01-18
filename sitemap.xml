@@ -2,25 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/tag/arbolado/</loc>
+    <lastmod>2022-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/asociaciones/</loc>
+    <lastmod>2022-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/</loc>
+    <lastmod>2022-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/</loc>
+    <lastmod>2022-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+    <lastmod>2022-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2022-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/asociaciones/grupo-ecologista-salicor/</loc>
+    <lastmod>2022-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/category/medio-ambiente/</loc>
+    <lastmod>2022-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/asociaciones/grupo-ecologista-salicor/no-podas-salvajes/</loc>
+    <lastmod>2022-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/salicor-ecologistas-en-accion/</loc>
+    <lastmod>2022-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2022-01-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tag/aduacion-ambiental/</loc>
     <lastmod>2021-11-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tag/agroecologia/</loc>
-    <lastmod>2021-11-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/asociaciones/</loc>
-    <lastmod>2021-11-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/</loc>
-    <lastmod>2021-11-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/</loc>
-    <lastmod>2021-11-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2021-11-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
     <lastmod>2021-11-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/grupo-autogestionado-de-consumo/</loc>
@@ -38,22 +56,10 @@
     <loc>/category/soberania-alimentaria/</loc>
     <lastmod>2021-11-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2021-11-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/post/asociaciones/grupo-ecologista-salicor/huelga-global-clima/</loc>
     <lastmod>2021-09-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tag/crisis-climatica/</loc>
-    <lastmod>2021-09-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/asociaciones/grupo-ecologista-salicor/</loc>
-    <lastmod>2021-09-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/category/medio-ambiente/</loc>
-    <lastmod>2021-09-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/salicor-ecologistas-en-accion/</loc>
     <lastmod>2021-09-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/presupuestos-participativos/comienzan-primeros-presupuestos-participativos/</loc>
@@ -70,9 +76,6 @@
   </url><url>
     <loc>/post/periodico-foro/poniendonos-al-dia-politica-municipal/</loc>
     <lastmod>2021-07-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/arbolado/</loc>
-    <lastmod>2021-05-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/asociaciones/grupo-ecologista-salicor/tala-arboles-calvario/</loc>
     <lastmod>2021-05-14T00:00:00+00:00</lastmod>
