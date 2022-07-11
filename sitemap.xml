@@ -2,16 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/post/presupuestos-municipales/rendicion-cuentas/</loc>
+    <lastmod>2022-07-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/</loc>
+    <lastmod>2022-07-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2022-07-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/mercadillo-agroecologico/</loc>
+    <lastmod>2022-07-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/presupuestos-municipales/</loc>
+    <lastmod>2022-07-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2022-07-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/post/asociaciones/</loc>
     <lastmod>2022-05-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/</loc>
-    <lastmod>2022-05-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/</loc>
-    <lastmod>2022-05-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
     <lastmod>2022-05-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/grupo-autogestionado-de-consumo/</loc>
@@ -21,12 +33,6 @@
     <lastmod>2022-05-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/asociaciones/grupo-autogestionado-consumo-local/iv-mercadillo-agroecologico-campo-criptana/</loc>
-    <lastmod>2022-05-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/mercadillo-agroecologico/</loc>
-    <lastmod>2022-05-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2022-05-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/</loc>
@@ -39,9 +45,6 @@
     <lastmod>2022-03-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/category/presupuestos/</loc>
-    <lastmod>2022-03-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/presupuestos-municipales/</loc>
     <lastmod>2022-03-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tag/8m/</loc>
@@ -62,6 +65,9 @@
     <loc>/category/mujer/</loc>
     <lastmod>2022-03-08T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/post/asociaciones/grupo-ecologista-salicor/macrogranjas-no/</loc>
+    <lastmod>2022-02-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/post/asociaciones/grupo-ecologista-salicor/</loc>
     <lastmod>2022-02-14T00:00:00+00:00</lastmod>
   </url><url>
@@ -72,9 +78,6 @@
     <lastmod>2022-02-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/salicor-ecologistas-en-accion/</loc>
-    <lastmod>2022-02-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/asociaciones/grupo-ecologista-salicor/macrogranjas-no/</loc>
     <lastmod>2022-02-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tag/arbolado/</loc>
@@ -158,10 +161,10 @@
     <loc>/post/presupuestos-municipales/presentacion-presupuestos-municipales-2021/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/asociaciones/grupo-ecologista-salicor/tala-almendros/</loc>
+    <loc>/tag/arboles/</loc>
     <lastmod>2021-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/arboles/</loc>
+    <loc>/post/asociaciones/grupo-ecologista-salicor/tala-almendros/</loc>
     <lastmod>2021-02-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/asociaciones/grupo-ecologista-salicor/denuncia-arranque-arboles-camino-cristo/</loc>
@@ -698,7 +701,7 @@
     <loc>/post/opinion/a-proposito-reforma-politica-agraria-comunitaria/</loc>
     <lastmod>2012-02-10T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/campanas/campana-cementerio-nuclear/ecologistas-accion-ciudad-real-organiza-autobus-concentracion-cementerio-nuclear-villar-canas/</loc>
+    <loc>/post/campanas/campana-cementerio-nuclear/ecologistas-accion-ciudad-real-organiza-autobus-concentracion-cementerio-nuclear--villar-canas/</loc>
     <lastmod>2012-02-08T18:41:44+00:00</lastmod>
   </url><url>
     <loc>/post/carta-ciudadano/sobre-problema-vivienda/</loc>
@@ -719,10 +722,10 @@
     <loc>/post/noticias/presentacion-coordinadora-defensa-sanidad-publica-comarca-tomelloso/</loc>
     <lastmod>2012-01-09T11:25:00+00:00</lastmod>
   </url><url>
-    <loc>/post/campanas/democracia-real-ya/dia-internacional-eliminacion-violencia-genero/</loc>
+    <loc>/post/campanas/democracia-real-ya/</loc>
     <lastmod>2011-11-25T19:03:04+00:00</lastmod>
   </url><url>
-    <loc>/post/campanas/democracia-real-ya/</loc>
+    <loc>/post/campanas/democracia-real-ya/dia-internacional-eliminacion-violencia-genero/</loc>
     <lastmod>2011-11-25T19:03:04+00:00</lastmod>
   </url><url>
     <loc>/post/carta-ciudadano/elecciones-generales-2011-fiesta-democracia/</loc>
