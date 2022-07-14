@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Foro Social de Campo de Criptana</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-es</language><lastBuildDate>Sun, 03 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-es</language><lastBuildDate>Wed, 13 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/rotulo-foro.png</url>
       <title>Foro Social de Campo de Criptana</title>
@@ -13,11 +13,63 @@
     </image>
     
     <item>
+      <title>Las propuestas de los presupuestos participativos 2022 a debate</title>
+      <link>/post/presupuestos-participativos/debate-presupuestos-participativos-2022/</link>
+      <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/post/presupuestos-participativos/debate-presupuestos-participativos-2022/</guid>
+      <description>&lt;!-- LTeX: language=es-ES --&gt;
+&lt;p&gt;Este viernes 15 de julio a las 20:00 en la Casa de Cultura tendrá lugar el primer debate público sobre las propuestas presentadas a la segunda edición de los presupuestos participativos de Campo de Criptana.&lt;/p&gt;
+&lt;p&gt;Los presupuestos participativos son una iniciativa municipal en la que el ayuntamiento de Campo de Criptana reserva una partida de los presupuestos municipales (este ejercicio 15000 €), para inversiones propuestas y votadas por la ciudadanía. Se trata de un valioso instrumento para profundizar la democracia participativa municipal, pero también para fortalecer el tejido asociativo de la localidad. Es esencial, por tanto, que en el proceso haya al menos una fase comunitaria, donde los vecinos puedan interactuar, intercambiar ideas y debatir sobre las propuestas. De lo contrario el proceso quedaría desvirtuado, al reducirse solo a la dimensión individual del ciudadano (tanto para las propuestas como para las votaciones, que necesariamente tienen que ser individuales) limitando en gran medida su potencial transformador.&lt;/p&gt;
+&lt;p&gt;Ese el principal objetivo de este debate de propuestas, que los ciudadanos puedan presentar y defender sus propuestas públicamente ante el resto de vecina/os, y que entre todas podamos debatir sobre las propuestas presentadas. No se trata de cada cual &lt;em&gt;arrime el ascua a su sardina&lt;/em&gt;, sino de que entre todas analicemos los pros y los contras de las propuestas presentadas y veamos cuáles son más necesarias y más beneficiosas para nuestro pueblo.&lt;/p&gt;
+&lt;p&gt;Estas son las propuestas que han pasado el filtro técnico y jurídico del ayuntamiento y que se presentarán el próximo viernes en la sesión pública de debate:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Mejora de los espacios destinados a las salas de ensayo de grupos locales&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Instalación de iluminación en la cuesta de subida al Santuario de la Virgen de Criptana&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Mejora de la iluminación del Parque Luis Cobos&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Arreglar fuente de la Plaza Mayor&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ampliar el mobiliario urbano en el municipio: bancos y papeleras&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Instalación de un punto de carga eléctrica en un aparcamiento público de la localidad&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Instalación de un Parque de Workout&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Instalación de un parque geriátrico para mayores, con bancos y juegos tradicionales&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Instalación de fuente decorativa en el Parque Luis Cobos&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Creación de Huerto Urbano en un suelo de propiedad municipal&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Instalación de placas fotovoltaicas destinadas a autoconsumo en un edificio público&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Sin duda, este mes de julio no es el más apropiado para estas convocatorias ya que la mayor parte de la gente ya está de vacaciones o a punto de cogerlas, por lo que pedimos al ayuntamiento que en futuras ediciones se inicie el proceso antes para poder tener este debate en mayo o junio a más tardar.
+También pedimos al ayuntamiento que crease un foro de debate online en la propia web del ayuntamiento para que quien no pueda participar presencialmente en el debate, lo haga en este foro, pero de momento esta propuesta son se ha materializado.&lt;/p&gt;
+&lt;p&gt;Animamos a toda la población de Campo de Criptana a participar en este debate y en la posterior votación de propuestas que será en septiembre.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>¿Rinde cuentas nuestro ayuntamiento?</title>
       <link>/post/presupuestos-municipales/rendicion-cuentas/</link>
       <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
       <guid>/post/presupuestos-municipales/rendicion-cuentas/</guid>
-      <description>&lt;p&gt;Los ayuntamientos están obligados por la Ley Reguladora de las Haciendas Locales a presentar la liquidación de los presupuestos de cada ejercicio así como la cuenta general ante el &lt;a href=&#34;https://www.tcu.es/tribunal-de-cuentas/es/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tribunal de Cuentas&lt;/a&gt;  para su fiscalización. Sin embargo, no todos los ayuntamientos presentan regularmente sus cuentas ni lo hacen en los plazos que marca la ley. Según el portal de &lt;a href=&#34;https://www.rendiciondecuentas.es/es/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rendición de Cuentas&lt;/a&gt;, solo el 70.4% de los ayuntamientos presentaron la liquidación del presupuesto en plazo el ejercicio 2020 y 59.52% presentaron la Cuenta General en plazo. Están quienes cumplen los plazos, quienes se retrasan unas semanas y quienes tardan años en presentar sus cuentas.&lt;/p&gt;
+      <description>&lt;!-- LTeX: language=es-ES --&gt;
+&lt;p&gt;Los ayuntamientos están obligados por la Ley Reguladora de las Haciendas Locales a presentar la liquidación de los presupuestos de cada ejercicio así como la cuenta general ante el &lt;a href=&#34;https://www.tcu.es/tribunal-de-cuentas/es/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tribunal de Cuentas&lt;/a&gt;  para su fiscalización. Sin embargo, no todos los ayuntamientos presentan regularmente sus cuentas ni lo hacen en los plazos que marca la ley. Según el portal de &lt;a href=&#34;https://www.rendiciondecuentas.es/es/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rendición de Cuentas&lt;/a&gt;, solo el 70.4% de los ayuntamientos presentaron la liquidación del presupuesto en plazo el ejercicio 2020 y 59.52% presentaron la Cuenta General en plazo. Están quienes cumplen los plazos, quienes se retrasan unas semanas y quienes tardan años en presentar sus cuentas.&lt;/p&gt;
 &lt;p&gt;La fundación CIVIO ha realizado un &lt;a href=&#34;https://civio.es/2022/06/17/567-ayuntamientos-no-rindieron-sus-cuentas-de-los-ejercicios-2018-2019-y-2020/?utm_source=Lista&amp;#43;General&amp;#43;de&amp;#43;Civio&amp;amp;utm_campaign=7fe62e1a45-Rendici%C3%B3n&amp;#43;de&amp;#43;cuentas&amp;#43;ayuntamientos&amp;#43;2022&amp;amp;utm_medium=email&amp;amp;utm_term=0_9d5b4c8cda-7fe62e1a45-127700986&amp;amp;mc_cid=7fe62e1a45&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;estudio de rendición de cuentas&lt;/a&gt; en el que han extraído los datos de 7.878 municipios del Estado español y ha elaborado un mapa interactivo donde se puede observar qué ayuntamientos cumplen la ley y cuáles no.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://civio.es/2022/06/17/567-ayuntamientos-no-rindieron-sus-cuentas-de-los-ejercicios-2018-2019-y-2020/?utm_source=Lista&amp;#43;General&amp;#43;de&amp;#43;Civio&amp;amp;utm_campaign=7fe62e1a45-Rendici%C3%B3n&amp;#43;de&amp;#43;cuentas&amp;#43;ayuntamientos&amp;#43;2022&amp;amp;utm_medium=email&amp;amp;utm_term=0_9d5b4c8cda-7fe62e1a45-127700986&amp;amp;mc_cid=7fe62e1a45&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;img/mapa-ayuntamientos-rendicion-cuentas.png&#34; alt=&#34;Mapa de rendición de cuentas de los ayuntamientos&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;En este mapa se puede apreciar que nuestro ayuntamiento presentó tarde las cuentas del ejercicio 2020. Aunque nuestro ayuntamiento no es, ni mucho menos, de los peores, ya que hay ayuntamientos que incluso tardan años en presentar sus cuentas. Por comunidades autónomas, Castilla-La Mancha, Andalucía y Castilla y León aglutinan la mayoría de estos consistorios.&lt;/p&gt;
