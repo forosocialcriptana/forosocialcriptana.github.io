@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Foros de Debate | Foro Social de Campo de Criptana</title>
-    <link>/post/foros-debate/</link>
-      <atom:link href="/post/foros-debate/index.xml" rel="self" type="application/rss+xml" />
-    <description>Foros de Debate</description>
+    <title>Debates | Foro Social de Campo de Criptana</title>
+    <link>/category/debates/</link>
+      <atom:link href="/category/debates/index.xml" rel="self" type="application/rss+xml" />
+    <description>Debates</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>es-es</language><lastBuildDate>Sun, 31 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/rotulo-foro.png</url>
-      <title>Foros de Debate</title>
-      <link>/post/foros-debate/</link>
+      <title>Debates</title>
+      <link>/category/debates/</link>
     </image>
     
     <item>
