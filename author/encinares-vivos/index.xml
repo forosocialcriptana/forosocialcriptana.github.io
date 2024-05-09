@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Encinares-Vivos | Foro Social de Campo de Criptana</title>
-    <link>//localhost:45541/author/encinares-vivos/</link>
-      <atom:link href="//localhost:45541/author/encinares-vivos/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:5065/author/encinares-vivos/</link>
+      <atom:link href="//localhost:5065/author/encinares-vivos/index.xml" rel="self" type="application/rss+xml" />
     <description>Encinares-Vivos</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>es-es</language><lastBuildDate>Mon, 29 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:45541/media/rotulo-foro.png</url>
+      <url>//localhost:5065/media/rotulo-foro.png</url>
       <title>Encinares-Vivos</title>
-      <link>//localhost:45541/author/encinares-vivos/</link>
+      <link>//localhost:5065/author/encinares-vivos/</link>
     </image>
     
     <item>
       <title>Encinares vivos de La Mancha</title>
-      <link>//localhost:45541/author/encinares-vivos-de-la-mancha/</link>
+      <link>//localhost:5065/author/encinares-vivos-de-la-mancha/</link>
       <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:45541/author/encinares-vivos-de-la-mancha/</guid>
+      <guid>//localhost:5065/author/encinares-vivos-de-la-mancha/</guid>
       <description>&lt;p&gt;La Asociación &amp;ldquo;Encinares Vivos de la Mancha&amp;rdquo;, nace el 24 de Noviembre de 2006 en Campo de Criptana (Ciudad Real) bajo el impulso de un grupo de personas animadas por el deseo de fomentar la cultura del árbol y la reforestación de nuestras tierras yermas, así como la difusión de nuestros valores rurales tradicionales.&lt;/p&gt;
 &lt;p&gt;Se constituye en entidad al amparo de la Ley Orgánica 1/2002, de 22 de marzo, y normas complementarias, con capacidad jurídica y plena capacidad de obrar, careciendo de ánimo de lucro, estableciendo su domicilio social Campo de Criptana y determinando las tierras de la Mancha como el ámbito territorial en el que va a realizar principalmente sus actividades.&lt;/p&gt;
 &lt;h2 id=&#34;nuestros-fines&#34;&gt;Nuestros fines&lt;/h2&gt;
