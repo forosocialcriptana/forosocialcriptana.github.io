@@ -1,16 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>macrogranjas | Foro Social de Campo de Criptana</title>
+    <title>Macrogranjas | Foro Social de Campo de Criptana</title>
     <link>/tag/macrogranjas/</link>
       <atom:link href="/tag/macrogranjas/index.xml" rel="self" type="application/rss+xml" />
-    <description>macrogranjas</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-es</language><lastBuildDate>Mon, 14 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <description>Macrogranjas</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-es</language><lastBuildDate>Wed, 06 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/rotulo-foro.png</url>
-      <title>macrogranjas</title>
+      <title>Macrogranjas</title>
       <link>/tag/macrogranjas/</link>
     </image>
+    
+    <item>
+      <title>Plantas de Biometano: Mitos y riesgos</title>
+      <link>/post/asociaciones/grupo-ecologista-salicor/charla-plantas-biometano/</link>
+      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/post/asociaciones/grupo-ecologista-salicor/charla-plantas-biometano/</guid>
+      <description>&lt;p&gt;Alarmados por el proyecto de planta de biometano que se pretende instalar en el término municipal de Campo de Criptana, muchos vecinos y vecinas de la localidad nos han pedido más información sobre los riesgos que entrañan este tipo de instalaciones por lo que desde el Foro Social de Campo de Criptana hemos organizado dos charlas informativas sobre las plantas de biometano.&lt;/p&gt;
+&lt;p&gt;La primera de ellas tendrá lugar el próximo viernes 8 de noviembre a las 20:00 horas en la casa de las asociaciones y contará con la presencia de Ángel Plaza, técnico en plantas bioenergéticas, que nos informará sobre el funcionamiento de una planta de biometano.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;img/charla-planta-biometano.png&#34; alt=&#34;Cartel de la primera charla informativa sobre las plantas de biometano&#34;&gt;&lt;/p&gt;
+&lt;p&gt;La segunda charla se celebrará el jueves 14 de noviembre a las 20:00 horas en el mismo lugar y contará con la participación de Toni Jorge, un experto de Ecologistas en Acción y miembro de la Plataforma Ciudadana contra las Macrogranjas, que nos hablará de los riesgos que entrañan este tipo de instalaciones y a quién benefician.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;img/charla-planta-biometano-2.png&#34; alt=&#34;Cartel de la segunda charla informativa sobre las plantas de biometano&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Desde el Foro Social de Campo de Criptana queremos invitar a toda la población a asistir a estas charlas informativas para que puedan conocer de primera mano los riesgos que entrañan las plantas de biometano y puedan resolver todas sus dudas al respecto. ¡Os esperamos!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>¡No queremos macrogranjas en nuestros pueblos!</title>
