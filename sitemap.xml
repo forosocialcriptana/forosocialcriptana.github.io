@@ -2,16 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/tag/arbolado/</loc>
+    <lastmod>2026-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/asociaciones/</loc>
+    <lastmod>2026-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/</loc>
+    <lastmod>2026-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/</loc>
+    <lastmod>2026-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+    <lastmod>2026-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2026-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/asociaciones/grupo-ecologista-salicor/</loc>
+    <lastmod>2026-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/category/medio-ambiente/</loc>
+    <lastmod>2026-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/asociaciones/grupo-ecologista-salicor/destruccion-jardines-pozohondo/</loc>
+    <lastmod>2026-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/salicor-ecologistas-en-accion/</loc>
+    <lastmod>2026-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2026-07-06T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tag/antimilitarismo/</loc>
     <lastmod>2026-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/</loc>
-    <lastmod>2026-03-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/post/campanas/</loc>
-    <lastmod>2026-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
     <lastmod>2026-03-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/campanas/no-guerra/</loc>
@@ -23,22 +50,10 @@
     <loc>/tag/pacifismo/</loc>
     <lastmod>2026-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2026-03-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tag/8m/</loc>
     <lastmod>2026-03-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/asociaciones/las-violeteras-criptana/2026-8m/</loc>
-    <lastmod>2026-03-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/asociaciones/</loc>
-    <lastmod>2026-03-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/</loc>
-    <lastmod>2026-03-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/</loc>
     <lastmod>2026-03-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tag/feminismo/</loc>
@@ -77,9 +92,6 @@
     <loc>/tag/macrogranjas/</loc>
     <lastmod>2025-01-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/category/medio-ambiente/</loc>
-    <lastmod>2025-01-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/post/campanas/planta-biometano/concentracion-stop-biometano-criptana/</loc>
     <lastmod>2025-01-05T00:00:00+00:00</lastmod>
   </url><url>
@@ -90,9 +102,6 @@
     <lastmod>2024-12-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/campanas/planta-biometano/concentracion-no-biometano/</loc>
-    <lastmod>2024-12-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/salicor-ecologistas-en-accion/</loc>
     <lastmod>2024-12-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/campanas/planta-biometano/posiconamiento-salicor-plantas-biometano/</loc>
@@ -155,9 +164,6 @@
     <loc>/tag/cementerio-nuclear/</loc>
     <lastmod>2023-12-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/asociaciones/grupo-ecologista-salicor/</loc>
-    <lastmod>2023-12-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/post/asociaciones/grupo-ecologista-salicor/fin-cenementerio-nuclear/</loc>
     <lastmod>2023-12-28T00:00:00+00:00</lastmod>
   </url><url>
@@ -178,9 +184,6 @@
   </url><url>
     <loc>/tag/participacion/</loc>
     <lastmod>2023-05-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/arbolado/</loc>
-    <lastmod>2023-03-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/asociaciones/grupo-ecologista-salicor/charla-ahorro-energetico-autoconsumo/</loc>
     <lastmod>2023-03-16T00:00:00+00:00</lastmod>
