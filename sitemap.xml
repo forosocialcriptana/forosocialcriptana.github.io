@@ -2,16 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/tag/arbolado/</loc>
+    <lastmod>2026-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/asociaciones/</loc>
+    <lastmod>2026-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/</loc>
+    <lastmod>2026-07-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/post/</loc>
-    <lastmod>2026-07-10T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/</loc>
-    <lastmod>2026-07-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/liquidaciones-municipales/comparativa-presupuestos-liquidaciones-2010-2025-graficos-web/</loc>
-    <lastmod>2026-07-10T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/</loc>
+    <lastmod>2026-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/asociaciones/grupo-ecologista-salicor/</loc>
+    <lastmod>2026-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/category/medio-ambiente/</loc>
+    <lastmod>2026-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/asociaciones/grupo-ecologista-salicor/talas-pozohondo/</loc>
+    <lastmod>2026-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/salicor-ecologistas-en-accion/</loc>
+    <lastmod>2026-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2026-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/liquidaciones-municipales/comparativa-presupuestos-liquidaciones-2010-2025-graficos-web/</loc>
     <lastmod>2026-07-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tag/liquidaciones/</loc>
@@ -26,28 +50,7 @@
     <loc>/category/presupuestos/</loc>
     <lastmod>2026-07-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2026-07-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/arbolado/</loc>
-    <lastmod>2026-07-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/asociaciones/</loc>
-    <lastmod>2026-07-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/</loc>
-    <lastmod>2026-07-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/asociaciones/grupo-ecologista-salicor/</loc>
-    <lastmod>2026-07-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/category/medio-ambiente/</loc>
-    <lastmod>2026-07-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/post/asociaciones/grupo-ecologista-salicor/destruccion-jardines-pozohondo/</loc>
-    <lastmod>2026-07-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/salicor-ecologistas-en-accion/</loc>
     <lastmod>2026-07-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tag/antimilitarismo/</loc>
